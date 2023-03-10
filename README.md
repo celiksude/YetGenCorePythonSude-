@@ -1,2 +1,2 @@
 # YetGenCorePythonSude-
-Bu Repo YetGen Core Python Çalışmlarımı Depolamak İçin Oluşturulmuştur 
+Bu Repo YetGen Core Python Çalışmlarımı Depolamak İçin Oluşturulmuştur ben sude çelik
